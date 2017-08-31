@@ -9,15 +9,13 @@
 <script>
 import CnodeHeader from './components/CnodeHeader'
 export default {
-  data(){
+  data( ) {
     return {
-
     }
   },
   comments:{
     CnodeHeader
-  }
-  
+  } 
 }
 </script>
 
